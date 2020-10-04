@@ -93,7 +93,7 @@
       WRITE(*,*)"...................................................."
       
       WRITE(*,*)"Ara, respon el que et demani i desxifrare els nombres q
-     &ue t'apareixen a la part posterior del teu DNI, empra maj£scules s
+     &ue t'apareixen a la part posterior del teu DNI, empra majuscules s
      &empre"
       WRITE(*,*)"Escriu el teu nom"
       read(*,*)nom
