@@ -1,16 +1,9 @@
- Program NUMDNI
+      Program NUMDNI
       implicit integer (a-z)
       integer num,resto
-      character*30 var1,var2,var3
-      character*20 nom,llin1,llin2
-      character*9 idesp
-      character*2 mes,dia,mesc,diac
-      character*4 any,anyc
-      character*3 nac
-      character*1 gen,lletra,ddc1,ddc2,ddc3,ddc4
-      character*1 estt1,estt2,estt3,estt4,estt5,estt6,estt7,estt8
+      character*1 lletra
+      WRITE(*,*)"...................................................."      
       WRITE(*,*)"Hola, escribe tu DNI y te dare tu NIF"
-      WRITE(*,*)"...................................................."
       WRITE(*,*)"...................................................."
       READ(*,*)num
       WRITE(*,*)"...................................................."
