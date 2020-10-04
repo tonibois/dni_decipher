@@ -1,5 +1,8 @@
 # DNI_DECIPHER
 
+### OBTEN EL PROGRAMA:
++ git clone ...
+
 ### FORTRAN
 + Devuelve la letra de tu DNI
 
@@ -27,7 +30,9 @@
 4. El programa te devuelve tu DNI con la letra
 
 ### PYTHON ARG-PARSED
-(proximamente)
+1. Ejecute directamente en la linea de comandos:
+2. python DNI_letra_argparsed.py -dni <NUMERO_DNI>
+4. El programa te devuelve tu DNI con la letra
 
 ### PYTHON GUI
 (proximamente)
