@@ -92,7 +92,7 @@
       WRITE(*,*)"...................................................."
       WRITE(*,*)"...................................................."
       
-      WRITE(*,*)"Ara, respon el que et demani i desxifrare els n£meros q
+      WRITE(*,*)"Ara, respon el que et demani i desxifrare els nombres q
      &ue t'apareixen a la part posterior del teu DNI, empra maj£scules s
      &empre"
       WRITE(*,*)"Escriu el teu nom"
@@ -127,7 +127,7 @@
       WRITE(*,*)"Escriu l'any de la data de caducitat del teu DNI (4 xif
      &res)"
       READ(*,*)anyc
-      WRITE(*,*)"Escriu la teva nacionalitat aix¡ com apareix en el DNI"
+      WRITE(*,*)"Escriu la teva nacionalitat aixi com apareix en el DNI"
       READ(*,*)nac
       
       a0=(iachar(idesp(1:1))-65)*7
