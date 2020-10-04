@@ -1,4 +1,4 @@
-# DNI_DECIPHER
+# dni_decipher
 
 ### OBTEN EL PROGRAMA:
 + git clone https://github.com/tonibois/dni_decipher.git
