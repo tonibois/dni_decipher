@@ -1,7 +1,8 @@
 # dni_decipher
 
-### OBTEN EL PROGRAMA:
+### OBTEN EL PROGRAMA (usa una de las siguientes opciones):
 + git clone https://github.com/tonibois/dni_decipher.git
++ gh repo clone tonibois/dni_decipher
 
 ### FORTRAN
 + Devuelve la letra de tu DNI
