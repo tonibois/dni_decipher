@@ -195,7 +195,7 @@
       
       WRITE(*,*)"...................................................."
       WRITE(*,*)"...................................................."
-      WRITE(*,*)"Aix• ‚s el que hi ha a la part posterior del teu DNI:"
+      WRITE(*,*)"Aixo es el que hi ha a la part posterior del teu DNI:"
       WRITE(*,*)"...................................................."
 
       WRITE(*,*)
