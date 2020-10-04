@@ -34,9 +34,6 @@
 2. python DNI_letra_argparsed.py -dni <NUMERO_DNI>
 4. El programa te devuelve tu DNI con la letra
 
-### PYTHON GUI
-(proximamente)
-
 ### SHELL
 (proximamente)
 
