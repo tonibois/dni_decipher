@@ -12,10 +12,16 @@
 ### PYTHON
 *Requisitos: debe tener instalado python*
 
-Ejecute directamente en la linea de comandos:
-python DNI_letra.py
-Escribe tu DNI o un DNI aleatorio sin la letra cuando el programa te lo pida y pulsa enter
-El programa te devuelve tu DNI con la letra
+1. Ejecute directamente en la linea de comandos:
+2. python DNI_letra.py
+3. Escribe tu DNI o un DNI aleatorio sin la letra cuando el programa te lo pida y pulsa enter
+4. El programa te devuelve tu DNI con la letra
+
+### PYTHON ARG-PARSED
+(proximamente)
+
+### PYTHON GUI
+(proximamente)
 
 ### SHELL
 (proximamente)
