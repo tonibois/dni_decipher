@@ -1,0 +1,27 @@
+@Echo Off
+SET man1=%1
+set /a "mod="%man1%"%%23"
+
+if %mod%==0 (echo Tu DNI es %man1%-T)
+if %mod%==1 (echo Tu DNI es %man1%-R)
+if %mod%==2 (echo Tu DNI es %man1%-W)
+if %mod%==3 (echo Tu DNI es %man1%-A)
+if %mod%==4 (echo Tu DNI es %man1%-G)
+if %mod%==5 (echo Tu DNI es %man1%-M)
+if %mod%==6 (echo Tu DNI es %man1%-Y)
+if %mod%==7 (echo Tu DNI es %man1%-F)
+if %mod%==8 (echo Tu DNI es %man1%-P)
+if %mod%==9 (echo Tu DNI es %man1%-D)
+if %mod%==10 (echo Tu DNI es %man1%-X)
+if %mod%==11 (echo Tu DNI es %man1%-B)
+if %mod%==12 (echo Tu DNI es %man1%-N)
+if %mod%==13 (echo Tu DNI es %man1%-J)
+if %mod%==14 (echo Tu DNI es %man1%-Z)
+if %mod%==15 (echo Tu DNI es %man1%-S)
+if %mod%==16 (echo Tu DNI es %man1%-Q)
+if %mod%==17 (echo Tu DNI es %man1%-V)
+if %mod%==18 (echo Tu DNI es %man1%-H)
+if %mod%==19 (echo Tu DNI es %man1%-L)
+if %mod%==20 (echo Tu DNI es %man1%-C)
+if %mod%==21 (echo Tu DNI es %man1%-K)
+if %mod%==22 (echo Tu DNI es %man1%-E)
