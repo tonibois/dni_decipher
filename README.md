@@ -44,16 +44,19 @@
 
 1. Ejecute directamente en la linea de comandos:
 2. python DNI_letra_argparsed.py -dni <NUMERO_DNI>
-4. El programa te devuelve tu DNI con la letra
+4. El programa te devuelve tu <DNI>-<Letra>
 
-### SHELL
+### SHELL (Terminal de linux)
 
 + Devuelve la letra de tu DNI
 
-1. Ejecute en una terminal: bash DNI_letra.sh <DNI> , donde <DNI> es el numero de DNI sin letra
-2. El programa le devuelve el DNI con la letra
+1. Ejecute en la terminal: bash DNI_letra.sh <DNI> , donde <DNI> es el numero de DNI sin letra
+2. El programa le devuelve <DNI>-<Letra>
   
-### CMD
-(proximamente)
+### CMD (Terminal de Windows)
+
+1. Ejectue en la terminal: DNI_letra.bat <DNI>
+2. Te devuelve <DNI>-<Letra>
+
 
 
