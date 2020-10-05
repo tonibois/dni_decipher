@@ -18,8 +18,10 @@
 
 ### FORTRAN FULL
 + Devuelve toda la informacion de la parte trasera del DNI
-+ Se ejecuta igual que DNI_letra.f pero ahora debe compilarse DNI_completo.f
-+ Hay que ir introduciendo la informacion requerida y el programa te devuelve la parte trasera del DNI con los digitos de control (no testeado 100%)
+*Requisitos: debes compilar el codigo y para ello tener instalado gfortran (p. ej, en Windows via Cygwin o en Linux en el paquete Essentials, sudo apt install gfortran)*
+
+1. Se ejecuta igual que DNI_letra.f pero ahora debe compilarse DNI_completo.f
+2. Hay que ir introduciendo la informacion requerida y el programa te devuelve la parte trasera del DNI con los digitos de control (no testeado 100%)
 
 
 ### PYTHON
@@ -31,6 +33,8 @@
 4. El programa te devuelve tu DNI con la letra
 
 ### PYTHON ARG-PARSED
+*Requisitos: debe tener instalado python*
+
 1. Ejecute directamente en la linea de comandos:
 2. python DNI_letra_argparsed.py -dni <NUMERO_DNI>
 4. El programa te devuelve tu DNI con la letra
