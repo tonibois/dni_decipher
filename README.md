@@ -36,8 +36,9 @@
 4. El programa te devuelve tu DNI con la letra
 
 ### SHELL
-(proximamente)
-
+1. Ejecute en una terminal: bash DNI_letra.sh <DNI> , donde <DNI> es el numero de DNI sin letra
+2. El programa le devuelve el DNI con la letra
+  
 ### CMD
 (proximamente)
 
