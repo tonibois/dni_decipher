@@ -18,6 +18,7 @@
 
 ### FORTRAN FULL
 + Devuelve toda la informacion de la parte trasera del DNI
+
 *Requisitos: debes compilar el codigo y para ello tener instalado gfortran (p. ej, en Windows via Cygwin o en Linux en el paquete Essentials, sudo apt install gfortran)*
 
 1. Se ejecuta igual que DNI_letra.f pero ahora debe compilarse DNI_completo.f
@@ -25,6 +26,9 @@
 
 
 ### PYTHON
+
++ Devuelve la letra de tu DNI
+
 *Requisitos: debe tener instalado python*
 
 1. Ejecute directamente en la linea de comandos:
@@ -33,6 +37,9 @@
 4. El programa te devuelve tu DNI con la letra
 
 ### PYTHON ARG-PARSED
+
++ Devuelve la letra de tu DNI
+
 *Requisitos: debe tener instalado python*
 
 1. Ejecute directamente en la linea de comandos:
@@ -40,6 +47,9 @@
 4. El programa te devuelve tu DNI con la letra
 
 ### SHELL
+
++ Devuelve la letra de tu DNI
+
 1. Ejecute en una terminal: bash DNI_letra.sh <DNI> , donde <DNI> es el numero de DNI sin letra
 2. El programa le devuelve el DNI con la letra
   
