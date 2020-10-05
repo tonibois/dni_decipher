@@ -33,7 +33,7 @@
 
 1. Ejecute directamente en la linea de comandos:
 2. python DNI_letra.py
-3. Escribe tu DNI o un DNI aleatorio sin la letra cuando el programa te lo pida y pulsa enter
+3. Escribe tu DNI o un DNI aleatorio sin la letra cuando el programa te lo pida (XXXXXXXX) y pulsa enter
 4. El programa te devuelve tu DNI con la letra
 
 ### PYTHON ARG-PARSED
@@ -43,19 +43,19 @@
 *Requisitos: debe tener instalado python*
 
 1. Ejecute directamente en la linea de comandos:
-2. python DNI_letra_argparsed.py -dni <NUMERO_DNI>
+2. python DNI_letra_argparsed.py -dni XXXXXXXX 
 4. El programa te devuelve tu DNI con la Letra
 
 ### SHELL (Terminal de linux)
 
 + Devuelve la letra de tu DNI
 
-1. Ejecute en la terminal: bash DNI_letra.sh <DNI> , donde <DNI> es el numero de DNI sin letra
+1. Ejecute en la terminal: bash DNI_letra.sh XXXXXXXX 
 2. El programa te devuelve tu DNI con la Letra
   
 ### CMD (Terminal de Windows)
 
-1. Ejectue en la terminal: DNI_letra.bat <DNI>
+1. Ejectue en la terminal: DNI_letra.bat XXXXXXXX 
 2. El programa te devuelve tu DNI con la Letra
 
 
