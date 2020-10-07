@@ -32,7 +32,7 @@
 *Requisitos: debe tener instalado python*
 
 1. Ejecute directamente en la linea de comandos:
-2. python DNI_letra.py
+2. python DNI_letra.py (o python3 DNI_letra.py)
 3. Escribe tu DNI o un DNI aleatorio sin la letra cuando el programa te lo pida (XXXXXXXX) y pulsa enter
 4. El programa te devuelve tu DNI con la letra
 
@@ -43,7 +43,7 @@
 *Requisitos: debe tener instalado python*
 
 1. Ejecute directamente en la linea de comandos:
-2. python DNI_letra_argparsed.py -dni XXXXXXXX 
+2. python DNI_letra_argparsed.py -dni XXXXXXXX (o python3 DNI_letra_argparsed.py -dni XXXXXXXX)
 4. El programa te devuelve tu DNI con la Letra
 
 ### SHELL (Terminal de linux)
