@@ -1,6 +1,10 @@
 # dni_decipher
 
-Programa para calcular la letra del DNI en diferentes lenguajes de programacion. Para mas informacion, ver https://www.serautonomo.net/como-calcular-la-letra-del-dni.html
+Programa para calcular la letra del DNI en diferentes lenguajes de programacion. Para mas informacion, ver :
+
++ https://www.serautonomo.net/como-calcular-la-letra-del-dni.html
++ http://www.interior.gob.es/web/servicios-al-ciudadano/dni/calculo-del-digito-de-control-del-nif-nie
++ https://josep-portella.com/es/software/magia-dni/
 
 ### OBTEN EL PROGRAMA (usa una de las siguientes opciones):
 + git clone https://github.com/tonibois/dni_decipher.git
