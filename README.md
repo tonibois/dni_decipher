@@ -10,7 +10,7 @@ Programa para calcular la letra del DNI en diferentes lenguajes de programacion.
 + git clone https://github.com/tonibois/dni_decipher.git
 + gh repo clone tonibois/dni_decipher
 
-### FORTRAN
+### FORTRAN (Terminal de un equipo Windows o Linux con gfortran instalado o con otro compilador Fortran)
 + Devuelve la letra de tu DNI
 
 *Requisitos: debes compilar el codigo y para ello tener instalado gfortran (p. ej, en Windows via Cygwin o en Linux en el paquete Essentials, sudo apt install gfortran)*
@@ -22,7 +22,7 @@ Programa para calcular la letra del DNI en diferentes lenguajes de programacion.
 5. El programa te devuelve tu DNI con la letra
 
 
-### FORTRAN FULL
+### FORTRAN FULL (Terminal de un equipo Windows o Linux con gfortran instalado o con otro compilador Fortran)
 + Devuelve toda la informacion de la parte trasera del DNI
 
 *Requisitos: debes compilar el codigo y para ello tener instalado gfortran (p. ej, en Windows via Cygwin o en Linux en el paquete Essentials, sudo apt install gfortran)*
@@ -30,7 +30,7 @@ Programa para calcular la letra del DNI en diferentes lenguajes de programacion.
 1. Se ejecuta igual que DNI_letra.f pero ahora debe compilarse DNI_completo.f
 2. Hay que ir introduciendo la informacion requerida y el programa te devuelve la parte trasera del DNI con los digitos de control (no testeado 100%)
 
-### C
+### C (Terminal de un equipo Windows o Linux con gcc instalado o con otro compilador C)
 + Devuelve la letra de tu DNI
 
 1. En la linea de comandos (cmd o bash):
@@ -39,7 +39,7 @@ Programa para calcular la letra del DNI en diferentes lenguajes de programacion.
 4. Escribe tu DNI o un DNI aleatorio sin la letra cuando el programa te lo pida y pulsa enter
 5. El programa te devuelve tu DNI con la letra
 
-### PYTHON
+### PYTHON (Terminal de un equipo con Python instalado y con el ejecutable especificado en PATH)
 
 + Devuelve la letra de tu DNI
 
@@ -50,8 +50,7 @@ Programa para calcular la letra del DNI en diferentes lenguajes de programacion.
 3. Escribe tu DNI o un DNI aleatorio sin la letra cuando el programa te lo pida (XXXXXXXX) y pulsa enter
 4. El programa te devuelve tu DNI con la letra
 
-### PYTHON ARG-PARSED
-
+### PYTHON ARG-PARSED (Terminal de un equipo con Python instalado y con el ejecutable especificado en PATH)
 + Devuelve la letra de tu DNI
 
 *Requisitos: debe tener instalado python*
@@ -61,22 +60,20 @@ Programa para calcular la letra del DNI en diferentes lenguajes de programacion.
 4. El programa te devuelve tu DNI con la Letra
 
 ### SHELL (Terminal de linux)
-
 + Devuelve la letra de tu DNI
 
 1. Ejecute en la terminal: bash DNI_letra.sh XXXXXXXX 
 2. El programa te devuelve tu DNI con la Letra
   
-### CMD (Terminal de Windows)
-
+### CMD (Terminal de CMD, en Windows)
 1. Ejectue en la terminal: DNI_letra.bat XXXXXXXX 
 2. El programa te devuelve tu DNI con la Letra
 
-### POWERSHELL ARGPARSED
+### POWERSHELL ARGPARSED (Terminal de Powershell, en Windows)
 1. Ejecuta el script de powershell (extensión ps1, en la terminal de powershell seguido del nombre de tu DNI "Ej: DNI_letra_argparsed.ps1 XXXXXXXXX".
 2. El programa te devuelve tu DNI con la letra
 
-### POWESHELL interactivo
+### POWESHELL interactivo (Terminal de Powershell, en Windows)
 1. Ejecuta el script de powershell (extensión ps1, en la terminal de powershell "Ej: DNI_letra.ps1".
 2. El programa te solicita que introduzcas tu DNI o un DNI aleatorio
 3. El programa te devuelve tu DNI con la letra
