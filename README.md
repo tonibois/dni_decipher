@@ -17,7 +17,7 @@ Programa para calcular la letra del DNI en diferentes lenguajes de programacion.
 
 1. En la linea de comandos (cmd o bash):
 2. Compila el codigo fuente          : gfortran DNI_letra.f -o DNI_letra
-3. Ejecuta el programa generado      : DNI_letra.exe
+3. Ejecuta el programa generado      : DNI_letra.exe (o ./DNI_letra.out, en Linux)
 4. Escribe tu DNI o un DNI aleatorio sin la letra cuando el programa te lo pida y pulsa enter
 5. El programa te devuelve tu DNI con la letra
 
@@ -30,6 +30,14 @@ Programa para calcular la letra del DNI en diferentes lenguajes de programacion.
 1. Se ejecuta igual que DNI_letra.f pero ahora debe compilarse DNI_completo.f
 2. Hay que ir introduciendo la informacion requerida y el programa te devuelve la parte trasera del DNI con los digitos de control (no testeado 100%)
 
+### C
++ Devuelve la letra de tu DNI
+
+1. En la linea de comandos (cmd o bash):
+2. Compila el codigo fuente          : gcc DNI_letra.f -o DNI_letra_c
+3. Ejecuta el programa generado      : DNI_letra_c.EXE (o ./DNI_letra_c.out, en Linux)
+4. Escribe tu DNI o un DNI aleatorio sin la letra cuando el programa te lo pida y pulsa enter
+5. El programa te devuelve tu DNI con la letra
 
 ### PYTHON
 
@@ -64,5 +72,15 @@ Programa para calcular la letra del DNI en diferentes lenguajes de programacion.
 1. Ejectue en la terminal: DNI_letra.bat XXXXXXXX 
 2. El programa te devuelve tu DNI con la Letra
 
+### POWERSHELL ARGPARSED
+1. Ejecuta el script de powershell (extensión ps1, en la terminal de powershell seguido del nombre de tu DNI "Ej: DNI_letra_argparsed.ps1 XXXXXXXXX".
+2. El programa te devuelve tu DNI con la letra
 
+### POWESHELL interactivo
+1. Ejecuta el script de powershell (extensión ps1, en la terminal de powershell "Ej: DNI_letra.ps1".
+2. El programa te solicita que introduzcas tu DNI o un DNI aleatorio
+3. El programa te devuelve tu DNI con la letra
+
+
+   
 
